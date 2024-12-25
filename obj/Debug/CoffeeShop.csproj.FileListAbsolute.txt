@@ -1,0 +1,7 @@
+E:\Halima\KIET\courses\FALL 2024\Software Construction LAB\LAB11\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+E:\Halima\KIET\courses\FALL 2024\Software Construction LAB\LAB11\CoffeeShop\bin\Debug\CoffeeShop.exe
+E:\Halima\KIET\courses\FALL 2024\Software Construction LAB\LAB11\CoffeeShop\bin\Debug\CoffeeShop.pdb
+E:\Halima\KIET\courses\FALL 2024\Software Construction LAB\LAB11\CoffeeShop\obj\Debug\CoffeeShop.csproj.AssemblyReference.cache
+E:\Halima\KIET\courses\FALL 2024\Software Construction LAB\LAB11\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+E:\Halima\KIET\courses\FALL 2024\Software Construction LAB\LAB11\CoffeeShop\obj\Debug\CoffeeShop.exe
+E:\Halima\KIET\courses\FALL 2024\Software Construction LAB\LAB11\CoffeeShop\obj\Debug\CoffeeShop.pdb
